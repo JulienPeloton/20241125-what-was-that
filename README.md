@@ -63,8 +63,7 @@ However if we look at cutout from the overdense regions, they do not look like t
 
 ## Nature of this event?
 
-> [!IMPORTANT]
-> Questions remained: what could have caused the rise of Moving Object candidates in Fink? Why are they clustered in overdense regions? 
+Questions remained: what could have caused the rise of Moving Object candidates in Fink? Why are they clustered in overdense regions? 
 
 ### Starlink launch close: coincidence? 
 
