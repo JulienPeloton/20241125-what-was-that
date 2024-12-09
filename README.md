@@ -75,6 +75,6 @@ As with everything in Fink, the Tracklet data is open data. We provide a script 
 python download_tracklet_data.py
 ```
 
-You will get Tracklet data saved in a Parquet file. You can easily explore the data using e.g. Pandas. If you are unsure about the meaning of the columns, check the [schema](https://fink-broker.readthedocs.io/en/latest/services/search/definitions/) page.
+You will get Tracklet data saved in a Parquet file. You can easily explore the data using e.g. Pandas. If you are unsure about the meaning of the columns, check the [schema](https://fink-broker.readthedocs.io/en/latest/services/search/definitions/) page. Also, if you want to access image cutout data, you can use the [cutout API](https://fink-broker.readthedocs.io/en/latest/services/search/imagesearch/) as usual. However, as there are many candidates (about 11k), this can be a time consuming operation (about 0.3 second/cutout), so we made an extraction for you that can be accessed at this [link](https://box.in2p3.fr/s/xz7NAMKcDRyP8yG) (150MB).
 
 **We would be happy to hear your opinions and analyses on this!**
