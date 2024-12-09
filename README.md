@@ -1,6 +1,7 @@
 # 2024-11-25: what was that?
 
-On the night of November 25, 2024 (`nid` 2885), we observed a rise in unknown moving objects in Fink from the ZTF public alert stream. Here is a screenshot of our night monitoring dashboard during operations:
+> [!IMPORTANT]\
+> On the night of November 25, 2024 (`nid` 2885), we observed a rise in unknown moving objects in Fink from the ZTF public alert stream. Here is a screenshot of our night monitoring dashboard during operations:
 
 ![filters](.pictures/filters.png)
 
