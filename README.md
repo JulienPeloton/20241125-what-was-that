@@ -30,7 +30,7 @@ Here is the histogram of number of tracklets as a function of time for that nigh
 
 ![timings](.pictures/timings.png)
 
-It is difficult to conclude as this distribution also depends on the observing schedule of ZTF, but clearly something already happened by 5 UTC.
+It is difficult to conclude as this distribution also depends on the observing schedule of ZTF, but clearly something already happened by 7 UTC.
 
 ### Magnitude distribution
 
