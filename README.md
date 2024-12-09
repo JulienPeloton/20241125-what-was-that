@@ -74,7 +74,7 @@ From [https://www.spacex.com/launches/](https://www.spacex.com/launches/), we ca
 
 ### So what?
 
-The nature of this event (if it is a single event) and these alerts remains open: uncontrolled turns of events during a Starlink launch? In-flight collision? Something else?
+The nature of this event (if it is a single event) and these alerts remains open: uncontrolled turns of events during a Starlink launch? In-flight collision? Processing pipeline error? Something else?
 
 As with everything in Fink, the Tracklet data is open data. We provide a script to download it. Just execute:
 
