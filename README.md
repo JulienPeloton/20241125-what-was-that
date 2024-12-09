@@ -22,7 +22,7 @@ For reference we also depict the ecliptic plane with a dotted line. Let's notice
 
 ![zone](.pictures/zones.png)
 
-The four first zones (left to right, top to bottom) show overdense regions of alerts, while the last two zones show more regular tracklet patterns. Looking at the overdense regions, it is easy to understand why the tracking algorithm went nuts! It was not designed for that density of objects, and the number of false positive must be huge.
+For each subplot, the zone is color coded by exposure time(s) (and different zones correspond to different times by construction). The four first zones (left to right, top to bottom) show overdense regions of alerts, while the last two zones show more regular tracklet patterns. Looking at the overdense regions, it is easy to understand why the tracking algorithm went nuts! It was not designed for that density of objects, and the number of false positive must be huge.
 
 ### Time of observations
 
