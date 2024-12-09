@@ -10,7 +10,7 @@ The orange bar (labeled as "Solar System Object candidate"—though it should re
 
 ## Tracklet candidates
 
-At the end of the night, we process each exposure one by one to extract fast-moving objects, as described in [Karpov and Peloton 2023](https://arxiv.org/abs/2310.17322). The algorithm has a complexity of $N^3$, where $N$ is the number of input objects, and the memory usage increases with a similar scaling. Needless to say, Fink went haywire -- we had to urgently devise a method to process such a large and unexpected volume of candidates, peaking at 35 GB of RAM for a single exposure with 4,000 candidates! We finally obtained 11,079 alerts grouped in 2,245 unique tracklet candidates. Once the surprise has passed, let's inspect the output of the processing.
+At the end of the night, we process each exposure one by one to extract fast-moving objects, as described in [Karpov and Peloton 2023](https://arxiv.org/abs/2310.17322). The algorithm has a complexity of $N^3$, where $N$ is the number of input objects, and the memory usage increases with a similar scaling. Needless to say, Fink went nuts -- we had to urgently devise a method to process such a large and unexpected volume of candidates, peaking at 35 GB of RAM for a single exposure with 4,000 candidates! We finally obtained 11,079 alerts grouped in 2,245 unique tracklet candidates. Once the surprise has passed, let's inspect the output of the processing.
 
 ### Sky map 
 
