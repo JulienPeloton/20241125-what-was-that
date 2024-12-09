@@ -63,13 +63,15 @@ However if we look at cutout from the overdense regions, they do not look like t
 
 ## Nature of this event?
 
-Questions remained: what could have caused the rise of Moving Object candidates in Fink? Why are they clustered in overdense regions? 
+> [!IMPORTANT]
+> Questions remained: what could have caused the rise of Moving Object candidates in Fink? Why are they clustered in overdense regions? 
 
 ### Starlink launch close: coincidence? 
 
 From [https://www.spacex.com/launches/](https://www.spacex.com/launches/), we can read that there were Starlink launches on November 23 and November 25, 2024. The second one was launched on November 25 at 5:02 a.m. ET, that is 10:02 a.m. UTC -- so this can't be related. The first one was launched on November 23 at 9:25 p.m. PST -- that is November 24 at 05:25 a.m. UTC, 24h before we spot our rise of events. It could be related. 
 
-Though there were many Starlink launches, we were never affected in this way. Note that we usually do not receive direct satellite contamination, as bright tracks are removed by ZTF before alert generation. That's why we typically only observe more subtle contributions from glinting satellites or debris (above magnitude 16).
+> [!NOTE]
+> Though there were many Starlink launches in the past, we were never affected in this way. Note that we usually do not receive direct satellite contamination, as bright tracks are removed by ZTF before alert generation. That's why we typically only observe more subtle contributions from glinting satellites or debris (above magnitude 16).
 
 ### So what?
 
